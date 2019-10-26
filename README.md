@@ -1,5 +1,5 @@
 # twitter_sentiment_analysis
-Wnated to get my hands on with NLP using NLTK and Sklearn
+Wanted to get my hands on with NLP using NLTK and Sklearn
 A simple model to identify racists tweets from regular/neutral tweets
 Made Use of Logistic Regression model using Sklearn.
 Feautures Used:
